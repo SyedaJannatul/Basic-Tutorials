@@ -1,0 +1,11 @@
+Position,Level,Salary,Current
+Business Analyst,1,45000,Yes
+Junior Consultant,2,50000,No
+Senior Consultant,3,60000,Yes
+Manager,4,80000,No
+Country Manager,5,110000,Yes
+Region Manager,6,150000,No
+Partner,7,200000,Yes
+Senior Partner,8,300000,No
+C-level,9,500000,Yes
+CEO,10,1000000,No
